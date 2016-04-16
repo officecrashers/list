@@ -1,4 +1,4 @@
-# crashable
+# list
 list of companies that approve of office crashing
 
 http://officecrashe.rs/list
